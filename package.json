@@ -2,6 +2,7 @@
   "name": "graph",
   "version": "0.1.0",
   "private": true,
+  "engines": { "node": "10.15.2", "npm": "5.8.0" },
   "dependencies": {
     "d3": "^6.3.1",
     "react": "^17.0.1",
